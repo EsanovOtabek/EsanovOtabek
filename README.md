@@ -10,11 +10,11 @@
  - [x] ![C++](https://img.shields.io/badge/C++-003464?style=flat&logo=c%2B%2B&logoColor=%230099ee)
  - [x] ![HTML](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-003464?style=flat&logo=css3)
  - [x] ![JavaScript](https://img.shields.io/badge/JavaScript-003464?style=flat&logo=javascript)
- - [x] ![PHP](https://img.shields.io/badge/PHP-003464?style=flat&logo=php)
- - [x] ![Laravel](https://img.shields.io/badge/Laravel-003464?style=flat&logo=laravel)
+ - [x] ![PHP](https://img.shields.io/badge/PHP-003464?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-003464?style=flat&logo=laravel)
  - [x] ![MySql](https://img.shields.io/badge/MySql-003464?style=flat&logo=MySql&logoColor=%23eeeeee) ![SqLite](https://img.shields.io/badge/SqLite-003464?style=flat&logo=SqLite)
  - [x] ![Git](https://img.shields.io/badge/Git-003464?style=flat&logo=git) ![Github](https://img.shields.io/badge/Github-003464?style=flat&logo=Github)
  - [x] ![QT](https://img.shields.io/badge/QT-003464?style=flat&logo=qt)
+ - [x] ![Java](https://img.shields.io/badge/Java-003464?style=flat&logo=java) ![Android](https://img.shields.io/badge/Android-003464?style=flat&logo=Android)
 
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=EsanovOtabek&show_icons=true&theme=tokyonight)
