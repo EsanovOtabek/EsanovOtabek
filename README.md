@@ -19,9 +19,7 @@
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=EsanovOtabek&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanovOtabek&layout=compact&theme=tokyonight&show_icons=true)
-
-![EsanovOtabek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EsanovOtabek)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanovOtabek&layout=compact&theme=tokyonight)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EsanovOtabek/)
 <!---
