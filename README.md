@@ -21,6 +21,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanovOtabek&layout=compact&theme=tokyonight&show_icons=true)
 
+![EsanovOtabek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EsanovOtabek)
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EsanovOtabek/)
 <!---
 EsanovOtabek/EsanovOtabek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
