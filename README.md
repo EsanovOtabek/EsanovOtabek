@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Developent, Laravel and Vuejs frameworks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am founder of [Lifepc Group](https://lifepc.uz)
+- I am founder of [LifePC GrouP](https://lifepc.uz)
 - **📫 Conact me** [![Esanov Otabek](https://img.shields.io/badge/beootabek-003474?style=flat&logo=telegram)](https://t.me/beootabek)
 
 **📚 My skills**
