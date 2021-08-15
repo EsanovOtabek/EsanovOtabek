@@ -19,11 +19,11 @@
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=EsanovOtabek&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanovOtabek&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanovOtabek&layout=&theme=tokyonight)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EsanovOtabek/)
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+<img alt='analytics' src='https://profile-counter.glitch.me/esanovotabek/count.svg' width='0px'>
 <!---
 EsanovOtabek/EsanovOtabek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
