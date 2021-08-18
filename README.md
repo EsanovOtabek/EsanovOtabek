@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I am founder of [LifePC GrouP](https://lifepc.uz)
-- **📫 Conact me** [![Esanov Otabek](https://img.shields.io/badge/beootabek-003474?style=flat&logo=telegram)](https://t.me/beootabek)
+- **📫 Contact me** [![Esanov Otabek](https://img.shields.io/badge/beootabek-003474?style=flat&logo=telegram)](https://t.me/beootabek)
 
 **📚 My skills**
  - [x] ![C++](https://img.shields.io/badge/C++-003464?style=flat&logo=c%2B%2B&logoColor=%230099ee)
