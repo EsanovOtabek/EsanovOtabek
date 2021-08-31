@@ -24,6 +24,9 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EsanovOtabek/)
 
 <img alt='analytics' src='https://profile-counter.glitch.me/esanovotabek/count.svg' width='0px'>
+
+![Snake](https://raw.githubusercontent.com/EsanovOtabek/EsanovOtabek/main/eo.svg)
+
 <!---
 EsanovOtabek/EsanovOtabek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
